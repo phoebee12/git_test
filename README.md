@@ -1,0 +1,1 @@
+This is Sabine's first git project!
